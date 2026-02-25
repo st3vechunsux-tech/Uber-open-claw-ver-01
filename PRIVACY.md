@@ -28,5 +28,5 @@ These services may collect and process data as described in their respective pri
 ## Contact Information
 
 If you have any questions or concerns about this Privacy Policy, please contact us via:
-- **Email**: [your_email@example.com]
+- **Email**: ttaco1998@gmail.com
 - **Mailing Address**: [Your Physical Address]
